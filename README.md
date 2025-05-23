@@ -15,7 +15,7 @@ Avoid colliding with enemies at all costs. A single touch, and you'll have to re
 
 The game tracks your attempts and total wins, so you can boast about your achievements (or lament your many defeats)!
 
-## ✨ Key Features
+### ✨ Key Features
 
 Simple yet Challenging Gameplay: Easy to learn, almost impossible to master!
 
@@ -31,7 +31,7 @@ Quick Restart: Press 'Q' to try again immediately after a loss or win.
 
 Retro Arcade Style: Thanks to the charm of Python's turtle module.
 
-## 🕹️ Controls
+### 🕹️ Controls
 
 Move Up: ↑ (Up Arrow) key or W
 
@@ -58,10 +58,6 @@ random module: Included in Python's standard library.
 To run the game:
 
 Make sure you have Python 3 installed.
-
-Save the code as a .py file (e.g., main.py).
-
-Open a terminal or command line.
 
 Navigate to the directory where you saved the file.
 
