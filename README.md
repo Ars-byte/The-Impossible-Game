@@ -51,6 +51,13 @@ This game is built with Python and uses modules that come standard with Python i
 
 Python 3.x: Ensure you have Python installed on your system.
 
+
+***sudo apt install python3***
+
+***sudo apt install pip***
+
+***pip install pygame***
+
 turtle module: Included in Python's standard library.
 
 random module: Included in Python's standard library.
