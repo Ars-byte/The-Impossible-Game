@@ -1,5 +1,5 @@
 
-### 🌟 The IMPOSSIBLE Game - EXTREME HD Edition 🌟
+### 🌟 The IMPOSSIBLE Game - EXTREME Edition 🌟
 
 Get ready for a challenge that will test your reflexes and patience! The IMPOSSIBLE Game - EXTREME HD Edition is an exciting arcade game developed in Python using the turtle module. Dive into a minimalist yet dangerously addictive world where every move counts.
 
@@ -47,7 +47,7 @@ Restart Game: Q key
 
 This game is built with Python and uses modules that come standard with Python installations.
 
-Dependencies:
+## Dependences:
 
 Python 3.x: Ensure you have Python installed on your system.
 
